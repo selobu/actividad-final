@@ -1,4 +1,4 @@
-start docker-composer.yml
+start docker-compose.yml
 
 navigate to http://localhost/docs
 
